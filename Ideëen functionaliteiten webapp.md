@@ -1,4 +1,4 @@
-#Ideëen voor de web app wfdc
+# Ideëen voor de web app wfdc
 
 - Dark mode
 - kalender met activiteiten/events linken aan een locatie en tonen op kaart.
