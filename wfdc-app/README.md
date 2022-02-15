@@ -1,6 +1,10 @@
 # WfdcApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Note: Please make sure you have installed node and npm in your system. You can check your node version and npm version by using the following command:
+
+node --version
+npm --version
 
 ## Development server
 
@@ -13,6 +17,14 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Routing
+
+See https://jasonwatmore.com/post/2019/04/29/angular-7-tutorial-part-3-add-routing-multiple-pages for reference
+
+##Bootstrap setup
+
+https://ordinarycoders.com/blog/article/adding-bootstrap-angular
 
 ## Running unit tests
 
