@@ -22,9 +22,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 See https://jasonwatmore.com/post/2019/04/29/angular-7-tutorial-part-3-add-routing-multiple-pages for reference
 
-##Bootstrap setup
+## Bootstrap setup
 
-https://ordinarycoders.com/blog/article/adding-bootstrap-angular
+ng add @ng-bootstrap/ng-bootstrap (already done, just get dependencies with npm install)
 
 ## Running unit tests
 
